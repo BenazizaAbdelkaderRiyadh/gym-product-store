@@ -1,8 +1,8 @@
-# Vigor Nutrition - Interactive Product Landing Page
+# GYM Nutrition - Interactive Product Landing Page
 
-![Vigor Nutrition Demo](./Screenshot.png)
+![GYM Nutrition Demo](./Screenshot.png)
 
-A stunning and highly interactive frontend concept for "Vigor Nutrition," a fictional fitness supplement brand. This project is a showcase of modern web design and development techniques, focusing on creating a fluid, engaging, and visually rich user experience. It's built entirely on the frontend using React and Tailwind CSS, demonstrating what's possible without a backend.
+A stunning and highly interactive frontend concept for "GYM Nutrition," a fictional fitness supplement brand. This project is a showcase of modern web design and development techniques, focusing on creating a fluid, engaging, and visually rich user experience. It's built entirely on the frontend using React and Tailwind CSS, demonstrating what's possible without a backend.
 
 ---
 
